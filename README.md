@@ -1,4 +1,4 @@
 **Practice Project**
 
-Learning Github
-::.:
+Learning Github!
+:smiley:
